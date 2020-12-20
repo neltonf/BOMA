@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588675983431",
+    "project_id": "bomafirebase",
+    "storage_bucket": "bomafirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588675983431:android:9406ba3d6d9bc10da56962",
+        "android_client_info": {
+          "package_name": "com.example.boma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588675983431-lm778l2h7lstcok5gi42g3dp4fga9hlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAW9wj0wsFLjc9HlyGNARbs-j0dp_vy58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588675983431-lm778l2h7lstcok5gi42g3dp4fga9hlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
