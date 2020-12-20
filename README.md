@@ -20,10 +20,24 @@ To download, open a terminal and issue following commands:
 
     $ mkdir Messenger
     $ cd Messenger
-    $ git clone https://github.com/mesibo/messenger-app-android.git
+    $ git clone https://github.com/neltonf/BOMA.git
 
 ### Download the code as a zip file
 You can also download the complete Android Messenger source code as a zip file. Although simple, the downsize of this approach is that you will have to download the complete source code everytime it is updated on the repository. 
+
+## Confiquration
+
+**First** : Create a project at [Firebase](https://firebase.google.com/), please refer to [Add Firebase to your app](https://firebase.google.com/docs/android/setup#add_firebase_to_your_app)
+
+**Second** : download the Firebase config file
+
+![screenshot](https://github.com/shiburagi/Messaging-App/blob/dev_shiburagi/guide/Screen%20Shot%202016-09-21%20at%2012.59.57%20AM.png)
+
+**Third** : Replace the 'google-services.json' file in 'Read-Contact/app/' with your Firebase config file
+
+![screenshot](https://github.com/shiburagi/Messaging-App/blob/dev_shiburagi/guide/Screen%20Shot%202016-09-21%20at%2012.58.38%20AM.png)
+
+**Finally** : Now, you can run it by using your own Firebase storage.
 
 ### Stay Up-to-date
 Whatever approach you take to download the code, it is important to stay up-to-date with the latest changes, new features, fixes etc. Ensure to **Star(*)** the project on GitHub to get notified whenever the source code is updated. 
@@ -49,6 +63,4 @@ Building the code is as simple as:
 - Glide SDK
 - Material UI Module
 - FireBase DB
-- RecyclerView
-
-
+- RecyclerVieW
