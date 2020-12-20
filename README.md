@@ -4,8 +4,7 @@ In a working/educational campus there are a number of people working various tas
 proper communication must be ensured.Targeting a certain message to  a certain group or team makes it much easier and less chaotic.
 The App ensures targeted communication to a certain domain of people and also direct one to one communication.
 
-
-<img src="https://photos.google.com/photo/AF1QipNDo9aAZAU-GM0oKJfqzxfMFulG7d9qF2l0h92Y" width=180 />&nbsp;&nbsp;&nbsp;
+![alt text](https://github.com/neltonf/BOMA/blob/master/ScreenShot/Registration.jpg)
 <img src="https://developers.connectycube.com/docs/_images/code_samples/android_codesample_messenger_demo2.jpg" width=180 />&nbsp;&nbsp;&nbsp;
 <img src="https://developers.connectycube.com/docs/_images/code_samples/android_codesample_messenger_demo3.jpg" width=180 />
 
