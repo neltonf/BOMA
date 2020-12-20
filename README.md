@@ -5,7 +5,10 @@ proper communication must be ensured.Targeting a certain message to  a certain g
 The App ensures targeted communication to a certain domain of people and also direct one to one communication.
 
 <img src="https://github.com/neltonf/BOMA/blob/master/ScreenShot/Registration.jpg" width=180 />&nbsp;&nbsp;&nbsp;
-<img src="https://developers.connectycube.com/docs/_images/code_samples/android_codesample_messenger_demo3.jpg" width=180 />
+<img src="https://github.com/neltonf/BOMA/blob/master/ScreenShot/Login.jpg" width=180 />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/neltonf/BOMA/blob/master/ScreenShot/Contact.jpg" width=180 />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/neltonf/BOMA/blob/master/ScreenShot/Message.jpg" width=180 />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/neltonf/BOMA/blob/master/ScreenShot/Message2.jpg" width=180 />
 
 
 ## Downloading the Source Code
