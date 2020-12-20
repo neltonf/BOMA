@@ -31,7 +31,7 @@ You can also download the complete Android Messenger source code as a zip file. 
 
 **Second** : Download the Firebase config file
 
-**Third** : Replace the 'google-services.json' file in 'Read-Contact/app/' with your Firebase config file
+**Third** : Replace the 'google-services.json' file in 'BOMA/app/' with your Firebase config file
 
 **Finally** : Now, you can run it by using your own Firebase storage.
 
