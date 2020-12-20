@@ -1,4 +1,4 @@
-#### BoscoMessagingApp ("BOMA") Messenger for Android
+# BoscoMessagingApp ("BOMA") Messenger for Android
 BOMA is an open-source app with real-time messaging. This repo contains the source code for Android
 In a working/educational campus there are a number of people working various tasks,in order for them to function efficiently,
 proper communication must be ensured.Targeting a certain message to  a certain group or team makes it much easier and less chaotic.
