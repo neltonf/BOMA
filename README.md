@@ -5,7 +5,7 @@ proper communication must be ensured.Targeting a certain message to  a certain g
 The App ensures targeted communication to a certain domain of people and also direct one to one communication.
 
 
-<img src="https://drive.google.com/file/d/1O4KuodUFFVwCmwhIUk5lsD-GDSiew5gG/view" width=180 />&nbsp;&nbsp;&nbsp;
+<img src="https://photos.google.com/photo/AF1QipNDo9aAZAU-GM0oKJfqzxfMFulG7d9qF2l0h92Y" width=180 />&nbsp;&nbsp;&nbsp;
 <img src="https://developers.connectycube.com/docs/_images/code_samples/android_codesample_messenger_demo2.jpg" width=180 />&nbsp;&nbsp;&nbsp;
 <img src="https://developers.connectycube.com/docs/_images/code_samples/android_codesample_messenger_demo3.jpg" width=180 />
 
