@@ -25,11 +25,11 @@ To download, open a terminal and issue following commands:
 ### Download the code as a zip file
 You can also download the complete Android Messenger source code as a zip file. Although simple, the downsize of this approach is that you will have to download the complete source code everytime it is updated on the repository. 
 
-## Confiquration
+## Configuration
 
 **First** : Create a project at [Firebase](https://firebase.google.com/), please refer to [Add Firebase to your app](https://firebase.google.com/docs/android/setup#add_firebase_to_your_app)
 
-**Second** : download the Firebase config file
+**Second** : Download the Firebase config file
 
 **Third** : Replace the 'google-services.json' file in 'Read-Contact/app/' with your Firebase config file
 
